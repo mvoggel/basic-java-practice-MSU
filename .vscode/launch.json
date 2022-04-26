@@ -8,7 +8,7 @@
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "${Project7.JAVA}"
+            "mainClass": "[school-java/].project7.project7.java}"
         }
     ]
 }
