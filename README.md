@@ -1,5 +1,6 @@
-# school-java
+# Basic Java classes 
 Java classes and method building. 
-A number of different side projects completed. 
-In this there should be: 
-- Project7.Java right now. 
+A number of different projects completed from Java Programming I and II at Montclair State University. 
+
+In this repo should be: 
+- Project7.Java 
